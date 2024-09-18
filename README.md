@@ -47,39 +47,44 @@ User Side
 Precise Explanation regarding the work in detail :
 INSTALLATION STEPS :
 
-Copy zip file and Unzip file on your local server.
-Put this file inside WAMP or XAMPP server.
-Database Configuration
-Open phpmyadmin
-Create Database named project1​.
-Import database project1.sql from downloaded folder(inside database)
-Open Your browser put inside "http://localhost/Online-Exam-System/"
-To Login as admin put the following details.
-Admin Login Details
-Login Id: head@gmail.com
-Password: *****
-ONLINE EXAMINATION SYSTEM FEATURES :
-Login system must be present and secured by password.
-Ability to setup multiple choice question paper.
-Display of quick and accurate results.
-Rankings , and history of exams attempted can be looked after.
-Admin panel
-Can add/remove the teachers.
-Can view the feedbacks.
-Teacher panel
-Can add/remove question papers.
-Can view the individual test results and overall rankings.
-Student panel
-Can write the exams shown in home page
-Only once a student can attempt the examination , after then the examination is disabled until the teacher removes it.
-Can view the overall ranking and the details of scores and examinations previously attempted.
-Log out after the over.
-Users can send the suggestions and feedbacks from the home page , it can be viewed by admin.
-What makes our online exam system web project differs from others
-Low internet connection would be sufficient to load the pages, since we haven’t used any picture data(using pictures the user with low internet connection takes time to load the images). In other online exam system websites , we can find only one admin who is surely responsible for the addition or deletion of the test, but we made this site any number of authorized persons can add/remove the examinations and these all authorized persons and users of this site will be controlled by the admin. It could be very helpful for educational institues acting as :
+- Copy zip file and Unzip file on your local server.
+- Put this file inside WAMP or XAMPP server.
+- Database Configuration
+- Open phpmyadmin
 
-Admin(headdash.php) --- director of institute
-Teacher(dash.php) --- professors of college
-User(acccount.php) --- students of the college
-home page (index.php) Security with password , even the admin cannot look at the password , ensuring the trust of the users. A feedback system available for suggesting improvements and registering complaints.
+- Create Database named project1​.
+1. Import database project1.sql from downloaded folder(inside database)
+2. Open Your browser put inside "http://localhost/Online-Exam-System/"
+3. To Login as admin put the following details.
+4. Admin Login Details
+5. Login Id: head@gmail.com
+6. Password: *****
+
+- ONLINE EXAMINATION SYSTEM FEATURES :
+1. Login system must be present and secured by password.
+2. Ability to setup multiple choice question paper.
+3. Display of quick and accurate results.
+4. Rankings , and history of exams attempted can be looked after.
+
+- Admin panel
+1. Can add/remove the teachers.
+2. Can view the feedbacks.
+
+- Teacher panel
+1. Can add/remove question papers.
+2. Can view the individual test results and overall rankings.
+
+- Student panel
+1. Can write the exams shown in home page
+2. Only once a student can attempt the examination , after then the examination is disabled until the teacher removes it.
+3. Can view the overall ranking and the details of scores and examinations previously attempted.
+4. Log out after the over.
+5. Users can send the suggestions and feedbacks from the home page , it can be viewed by admin.
+6. What makes our online exam system web project differs from others
+7. Low internet connection would be sufficient to load the pages, since we haven’t used any picture data(using pictures the user with low internet connection takes time to load the images). In other online exam system websites , we can find only one admin who is surely responsible for the addition or deletion of the test, but we made this site any number of authorized persons can add/remove the examinations and these all authorized persons and users of this site will be controlled by the admin. It could be very helpful for educational institues acting as :
+
+- Admin(headdash.php) --- director of institute
+- Teacher(dash.php) --- professors of college
+- User(acccount.php) --- students of the college
+- home page (index.php) Security with password , even the admin cannot look at the password , ensuring the trust of the users. A feedback system available for suggesting improvements and registering complaints.
 
