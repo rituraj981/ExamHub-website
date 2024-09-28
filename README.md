@@ -14,7 +14,7 @@ Steps
 Default user is root,password is null and database name is project1.
 Default admin email id is head@gmail.com and password is head . admin password is md5 encypted.
 
-For any query or feedback contact me at ########@gmail.com.
+For any query or feedback contact me at riturajpandey981@gmail.com.
 
 Thanx.
 
