@@ -1,4 +1,4 @@
-# BharatExamHub.com
+# ExamHub.com
 
 Online examination system is a app for setup online quiz with so many functionality. It is a Javascript, laravel, PHP project.
 
